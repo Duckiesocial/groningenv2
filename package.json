@@ -1,0 +1,25 @@
+{
+  "name": "groningenv1",
+  "version": "1.0.0",
+  "description": "Plachtig",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "DuckieSocial",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ffmpeg-binaries": "^4.0.0",
+    "i": "^0.3.6",
+    "node-opus": "^0.3.2",
+    "npm": "^6.10.3",
+    "of": "^1.0.0",
+    "opusscript": "0.0.7",
+    "ytdl-core": "^0.29.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
